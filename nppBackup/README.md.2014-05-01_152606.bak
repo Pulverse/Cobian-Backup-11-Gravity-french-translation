@@ -14,10 +14,10 @@ N'hésitez pas si vous voyez des corrections à apporter à la traduction afin d
 Afin de faciliter l'exercice de vérification de la bonne traduction à partir de l'anglais :
 
  - 1 recopier d'abord ces 2 fichiers dans le dossier "Languages" du logiciel Cobian Backup 11
- - 2 ouvrir Cobian Backup 11
- - 3 ouvrir le "Traducteur" dans le menu "Outils"
+ - 2 ouvrir Cobian Backup 
+ - 3 ouvrir le "Traducteur" dans "Outils"
  - 4 modifier les fichiers french.cms et french.cui
  - 5 tester les ensuite dans le logiciel Cobian Backup 11
- - 6 si OK, les déposer sur GitHub afin de proposer vos corrections
+ - 6 si OK, les déposer sur GitHub pour proposer vos corrections
  
-Merci pour votre contribution
+Merci pour votre contributions

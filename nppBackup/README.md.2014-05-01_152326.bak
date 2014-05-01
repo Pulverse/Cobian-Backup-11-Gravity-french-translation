@@ -1,0 +1,26 @@
+Cobian-Backup-11-Gravity-french-translation
+===========================================
+
+Cobian Backup 11 Gravity french translation (2 fichiers)
+
+Nos travaux en complémentarité avec haveac00kie et Dehorter ont permis d'aboutir à une traduction stabilisée
+
+Voir sur le forum http://www.cobiansoft.se/forum/yaf_postst911p2_FRENCH.aspx?=
+
+Les 2 fichiers de traduction française du dossier "Languages" sont french.cms et french.cui sont accessibles sur ce repository
+
+N'hésitez donc pas si vous voyez des modifications à apporter à la traduction afin de les intégrer et les transmettre à Luis Cobian !!
+
+Afin de vous faciliter l'exercice de vérification de la bonne traduction à partir de l'anglais :
+
+ - 1 recopier d'abord ces 2 fichiers dans le dossier "Languages" du logiciel Cobian Backup
+ - 2 ouvrir Cobian Backup
+ - 3 ouvrir le "Traducteur" dans "Outils" pour vérifier la bonne traduction
+ - 3 modifier les fichiers french.cms et french.cui sur GitHub
+ - 4 tester les ensuite dans le logiciel
+ - 5 ne pas oublier de faire un Commit puis Pull Requests afin de me proposer vos corrections
+
+
+
+
+Merci pour vos contributions
